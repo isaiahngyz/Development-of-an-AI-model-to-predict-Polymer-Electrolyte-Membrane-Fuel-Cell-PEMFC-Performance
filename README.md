@@ -6,7 +6,7 @@ This project focuses on the S-8 Duralite Power Fuel Cell Stack, with considerati
 of design parameters like channel dimensions and operating parameters such as ambient temperature,
 heat generation, and input air velocity.
 
-This repository contains code used to to develop optimised AI models that predict the pressure drop 
+This repository contains code used to develop optimised AI models that predict the pressure drop 
 and temperature of the PEMFC stack given as set of input parameters. It also includes code that is able 
 to quantify physical parameters that result in the lowest PEMFC pressure drop while allowing the PEMFC 
 to operate within the optimal temperature range of 55 to 60 °C.
